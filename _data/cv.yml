@@ -27,13 +27,6 @@
     - title: Assistant Professor
       institution: Department of Physics, New York University
       year: 2023 - 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
     - title: Postdoc
       institution: Kavli Institute for Theoretical Physics, University of California, Santa Barbara
@@ -65,16 +58,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Biological physics
+    - title: Soft condensed matter
+    - title: Stochastic processes
+    - title: Optics
