@@ -3,9 +3,11 @@
   contents:
     - name: Full Name
       value: Sarah Kostinski  
-    - title: Email
+    - name: Address
+      value: 726 Broadway, Rm 836, New York, NY 10003 USA
+    - name: Email
       value: sk10775@nyu.edu
-    - title: Phone
+    - name: Phone
       value: +1 212 998 7643
   contact:
     - email: "sk10775@nyu.edu"
