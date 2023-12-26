@@ -6,8 +6,8 @@ subtitle: Assistant Professor of Physics, <a href='https://as.nyu.edu/faculty/sa
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  <!--   image: prof_pic.jpg -->
+  <!--   image_circular: false # crops the image to make it circular -->
   more_info: >
     <p>Rm 836</p>
     <p>726 Broadway</p>
