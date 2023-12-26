@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of Physics, <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>. 
 
 profile:
   align: right
