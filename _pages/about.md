@@ -9,8 +9,7 @@ profile:
   <!--   image: prof_pic.jpg -->
   <!--   image_circular: false # crops the image to make it circular -->
   more_info: >
-    <p>Rm 836</p>
-    <p>726 Broadway</p>
+    <p>726 Broadway, Rm 836</p>
     <p>New York, NY 10003</p>
 
 news: false  # includes a list of news items
