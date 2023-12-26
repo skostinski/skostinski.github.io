@@ -1,8 +1,12 @@
-- title: General Information
+- title: Contact Information
   type: map
   contents:
     - name: Full Name
       value: Sarah Kostinski
+    - title: Email
+      value: sk10775@nyu.edu
+    - title: Phone
+      value: +1 212 998 7643
 
 - title: Education
   type: time_table
