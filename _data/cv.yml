@@ -29,7 +29,7 @@
       year: 2023 - 
 
     - title: Postdoc
-      institution: Kavli Institute for Theoretical Physics, University of California, Santa Barbara
+      institution: Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA, USA
       year: 2021 - 2022
 
     - title: Postdoc
@@ -43,17 +43,6 @@
     - title: Fulbright student
       institution: Saint Petersburg Academic University, Saint Petersburg, Russian Federation
       year: 2010 - 2011
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020
-      items: 
-        -  
-        - 
-    - year: 2021
-      items: 
-        - 
 
 - title: Academic Interests
   type: nested_list
