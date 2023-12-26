@@ -272,7 +272,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Kostinski]
-  first_name: [Sarah]
+  first_name: [Sarah, V.]
 
   style: apa
   locale: en
