@@ -17,7 +17,7 @@ profiles:
       <p>726 Broadway, Rm 836</p>
       <p>New York, NY 10003</p>
   - align: left
-    image: einstein_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    <!-- image: einstein_pic.jpg -->
+    <!-- content: about_einstein.md -->
+    <!-- image_circular: false # crops the image to make it circular -->
 ---
