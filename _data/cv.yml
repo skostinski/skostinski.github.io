@@ -9,9 +9,6 @@
       value: sk10775@nyu.edu
     - name: Phone
       value: +1 212 998 7643
-  contact:
-    - email: "sk10775@nyu.edu"
-    - phone: +1 212 998 7643
 
 - title: Education
   type: time_table
