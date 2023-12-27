@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: > 
     <p>Sarah Kostinski</p>
-    <p>Assistant Professor of Physics</p>
+    <p>Assistant Professor</p>
+    <p>Department of Physics</p>
     <p>New York University</p>
     <p>726 Broadway</p> 
     <p>New York, NY 10003</p> 
