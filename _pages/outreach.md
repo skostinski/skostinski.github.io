@@ -7,4 +7,4 @@ nav: true
 nav_order: 9
 ---
 
-We collaborate with the BioBus science education program, serving the New York City area.
+We collaborate with the BioBus program, which provides K-12 and college students with science outreach and research opportunities in the New York City area.
