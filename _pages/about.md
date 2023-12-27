@@ -5,12 +5,12 @@ permalink: /
 subtitle: Assistant Professor of Physics, <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>. 
 
 profile:
-  <!-- align: right-->
+  align: right
   <!-- image: prof_pic.jpg-->
   image_circular: true # crops the image to make it circular
-  <!-- more_info: > -->
-    <!-- <p>726 Broadway, Rm 836</p> -->
-    <!-- <p>New York, NY 10003</p> -->
+  more_info: > 
+    <p>726 Broadway, Rm 836</p> 
+    <p>New York, NY 10003</p> 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
