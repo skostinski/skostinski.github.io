@@ -11,6 +11,7 @@ profile:
   more_info: > 
     <p>Sarah Kostinski</p>
     <p>Assistant Professor</p>
+    <p>Center for Soft Matter Research</p>
     <p>Department of Physics</p>
     <p>New York University</p>
     <p>726 Broadway</p> 
