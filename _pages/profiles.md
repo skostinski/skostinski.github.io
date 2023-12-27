@@ -18,6 +18,18 @@ profiles:
       <p>New York, NY 10003</p>
   - align: left
     <!-- image: einstein_pic.jpg -->
+    content: about_debendromookerjee.md
+    <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    <!-- image: einstein_pic.jpg -->
+    content: about_adamguerin.md
+    <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    <!-- image: einstein_pic.jpg -->
     content: about_nancyshi.md
+    <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    <!-- image: einstein_pic.jpg -->
+    content: about_dylanlane.md
     <!-- image_circular: false # crops the image to make it circular -->
 ---
