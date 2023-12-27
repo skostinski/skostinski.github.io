@@ -43,7 +43,7 @@
       institution: Saint Petersburg Academic University, Saint Petersburg, Russian Federation
       year: 2010 - 2011
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Biological physics
