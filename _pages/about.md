@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Assistant Professor of Physics, <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>. 
 
-<!-- profile: -->
+profile:
   <!-- align: right-->
   <!-- image: prof_pic.jpg-->
   <!-- image_circular: true # crops the image to make it circular-->
