@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses taught at New York University.
+description: courses taught at New York University
 nav: true
 nav_order: 6
 ---
