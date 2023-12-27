@@ -32,4 +32,8 @@ profiles:
     <!-- image: einstein_pic.jpg -->
     content: about_dylanlane.md
     <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    <!-- image: einstein_pic.jpg -->
+    content: about_alfreddrew.md
+    <!-- image_circular: false # crops the image to make it circular -->
 ---
