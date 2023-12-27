@@ -1,16 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: courses taught by S. Kostinski at New York University
+permalink: /openings/
+title: openings
+<!-- description: openings in the group -->
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
-<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
-
-<!-- Organize your courses by years, topics, or universities, however you like! -->
-
-Spring 2023: Thermal and Statistical Physics (PHYS-UA 140)
-
-Fall 2023: Biophysics (PHYS-GA 2022)
+If you are interested in joining the group as a postdoc or PhD student please contact S. Kostinski at sk10775@nyu.edu.
