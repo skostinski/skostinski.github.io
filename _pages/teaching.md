@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses taught by S. Kostinski at New York University
+description: courses taught by S. Kostinski at New York University
 nav: true
 nav_order: 6
 ---
