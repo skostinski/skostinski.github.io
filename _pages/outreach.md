@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /openings/
-title: openings
+permalink: /outreach/
+title: outreach
 <!-- description: openings in the group -->
 nav: true
 nav_order: 8
