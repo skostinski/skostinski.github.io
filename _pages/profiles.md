@@ -14,7 +14,7 @@ profiles:
     content: about_sarahkostinski.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Assistant Professor</p>
+      <p>Sarah Kostinski</p>
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_debendromookerjee.md
