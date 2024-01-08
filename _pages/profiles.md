@@ -15,11 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sarah Kostinski</p>
----
-
-<!-- current members -->
-
-profiles:  
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_debendromookerjee.md
@@ -42,12 +37,9 @@ profiles:
     <!-- image_circular: false # crops the image to make it circular -->
 ---
 
-<!-- former members -->
-
-profiles:
- - align: left
-    <-- image: einstein_pic.jpg -->
-    content: about_einstein.md
-    <!-- image_circular: false # crops the image to make it circular -->
-
+<!-- current members -->
+<section>
+    <h2>current members</h2>
+    <p>This is the content of Section 1.</p>
+</section>
 ---
