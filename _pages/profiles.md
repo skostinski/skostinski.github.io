@@ -4,7 +4,6 @@ permalink: /people/
 title: people
 description: members of the group
 nav: true
-display_categories: [current, former]
 nav_order: 7
 
 profiles:
