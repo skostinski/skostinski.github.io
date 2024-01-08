@@ -18,7 +18,7 @@ profiles:
 ---
 
 <!-- current members -->
-<div class="current">  
+
 profiles:  
   - align: left
     <!-- image: einstein_pic.jpg -->
@@ -40,15 +40,14 @@ profiles:
     <!-- image: einstein_pic.jpg -->
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
-</div>
+---
 
 <!-- former members -->
-<div class="former">   
+
 profiles:
  - align: left
     <-- image: einstein_pic.jpg -->
     content: about_einstein.md
     <!-- image_circular: false # crops the image to make it circular -->
-</div>
-      
+
 ---
