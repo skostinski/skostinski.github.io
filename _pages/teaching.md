@@ -14,3 +14,5 @@ nav_order: 6
 Spring 2023: Thermal and Statistical Physics (PHYS-UA 140)
 
 Fall 2023: Biophysics (PHYS-GA 2022)
+
+Spring 2024: Thermal and Statistical Physics (PHYS-UA 140)
