@@ -35,10 +35,4 @@ profiles:
     <!-- image: einstein_pic.jpg -->
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
-
-<!-- current members -->
-<section>
-    <h2>current members</h2>
-    <p>This is the content of Section 1.</p>
-</section>
 ---
