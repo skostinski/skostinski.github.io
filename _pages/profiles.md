@@ -35,7 +35,6 @@ profiles:
     <!-- image: einstein_pic.jpg -->
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
----
 
 <!-- current members -->
 <section>
