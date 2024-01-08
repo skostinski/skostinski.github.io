@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the group
 nav: true
-display_categories: [current, alumni]
+display_categories: [current, former]
 nav_order: 7
 
 profiles:
@@ -17,7 +17,9 @@ profiles:
     more_info: >
       <p>Sarah Kostinski</p>
 
-## Current members:
+<!-- current members -->
+<div class="current">  
+profiles:  
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_debendromookerjee.md
@@ -38,10 +40,15 @@ profiles:
     <!-- image: einstein_pic.jpg -->
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
+</div>
 
-## Alumni:
+<!-- former members -->
+<div class="former">   
+profiles:
  - align: left
     <-- image: einstein_pic.jpg -->
     content: about_einstein.md
     <!-- image_circular: false # crops the image to make it circular -->
+</div>
+      
 ---
