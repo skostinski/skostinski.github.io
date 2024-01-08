@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sarah Kostinski</p>
+---
 
 <!-- current members -->
 <div class="current">  
