@@ -38,12 +38,14 @@ profiles:
   - align: left
     <!-- image: einstein_pic.jpg -->
     name: Nancy Shi
+    email: ys4690@nyu.edu
     position: NYU physics BSc student
     content: about_nancyshi.md
     alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     name: Dylan Lane
+    email: dl4729@nyu.edu
     position: NYU physics BSc student
     content: about_dylanlane.md
     <!-- image: einstein_pic.jpg -->
@@ -51,14 +53,15 @@ profiles:
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     name: Alfred Drew
+    email: alfred.drew@biobus.org
     position: BioBus research intern; Hunter College biophysics BSc student
     content: about_alfreddrew.md
     <!-- image: einstein_pic.jpg -->
     alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
-  - align: left
-    name: Albert E
-    image: einstein_pic.jpg
-    alumni: true
-    content: about_einstein.md
+<!-- - align: left -->
+<!-- name: Albert Einstein -->
+<!-- image: einstein_pic.jpg -->
+<!-- alumni: true -->
+<!-- content: about_einstein.md -->
 ---
