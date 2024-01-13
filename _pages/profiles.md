@@ -18,7 +18,7 @@ profiles:
     alumni: false
     image_circular: false # crops the image to make it circular
     info: "<p>Assistant Professor of Physics</p>"
-    more_info: "<p>Image description</p>"
+    # more_info: "<p>Image description</p>"
   - align: left
     name: Debendro Mookerjee
     position: NYU physics PhD student
