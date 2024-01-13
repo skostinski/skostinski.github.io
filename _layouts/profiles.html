@@ -3,62 +3,62 @@ layout: page
 ---
 
 <!-- about.html -->
-      <div class="post">
+<div class="post">
 
-        <article>
-          {% if page.profiles -%}
-          {% for profile in page.profiles %}
-              {%- unless profile.alumni %}
-                  <hr>
-                  <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-                      {%- if profile.image %}
-                      {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
+  <article>
+    {% if page.profiles %}
+      {% for profile in page.profiles %}
+        {% unless profile.alumni %}
+          <hr>
+          <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+            {% if profile.image %}
+              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+              {% if profile.image_circular %}
+                {% assign profile_image_class = "img-fluid z-depth-1 rounded-circle" %}
+              {% else %}
+                {% assign profile_image_class = "img-fluid z-depth-1 rounded" %}
+              {% endif %}
 
-                      {% if profile.image_circular %}
-                        {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-                      {% else %}
-                        {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-                      {% endif %}
+              {% include figure.html
+                path=profile_image_path
+                class=profile_image_class
+                alt=profile.image %}
+            {% endif %}
+            {% if profile.more_info %}
+              <div class="more-info">
+                {{ profile.more_info }}
+              </div>
+            {% endif %}
+          </div>
 
-                      {% include figure.html
-                      path=profile_image_path
-                      class=profile_image_class
-                      alt=profile.image -%}
-                      {% endif -%}
-                      {%- if profile.more_info %}
-                      <div class="more-info">
-                      {{ profile.more_info }}
-                      </div>
-                      {%- endif %}
-                   </div>
-
-                    <div class="clearfix">
-                        <h3> {{ profile.name }} </h3>
-                        <span>
-                            <h6> 
-                                {{ profile.position }}
-                                {%- if profile.email %}
-                                    <a href="mailto:{{ profile.email }}"><i class="fas fa-envelope" style='padding-left: 10px;'></i></a></p>
-                                {%- endif %}
-                            </h6>
-                            <div>
-                                {{ profile.info | markdownify }}
-                            </div>
-                        </span>
-                    </div>
-                {%- endunless %}  
-            {% endfor %}
-            <hr/>
-          <h2> Alumni </h2>
-          <ul>
-              {% for profile in page.profiles %}
-                {%- if profile.alumni %}
-                    <li>
-                        {{ profile.name }}, {{ profile.position }}
-                    </li>
+          <div class="clearfix">
+            <h3>{{ profile.name }}</h3>
+            <span>
+              <h5>
+                {{ profile.position }}
+                {% if profile.email %}
+                  <a href="mailto:{{ profile.email }}"><i class="fas fa-envelope" style='padding-left: 10px;'></i></a>
                 {% endif %}
-              {% endfor %}
-          </ul>
-        </article>
+              </h5>
+              <div>
+                {{ profile.info | markdownify }}
+              </div>
+            </span>
+          </div>
+        {% endunless %}
+      {% endfor %}
+      <hr>
+      <h2>Alumni</h2>
+      <ul>
+        {% for profile in page.profiles %}
+          {% if profile.alumni %}
+            <li>
+              {{ profile.name }}, {{ profile.position }}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </article>
 
-</div>              
+</div>
