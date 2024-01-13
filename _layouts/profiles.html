@@ -49,15 +49,15 @@ layout: page
       {% endfor %}
       <hr style="border: 2px solid #000; margin: 20px 0;">
       <h2><b>Alumni</b></h2>
-      <ul>
+      <div class="custom-list">
         {% for profile in page.profiles %}
           {% if profile.alumni %}
-            <span>
+            <p>
               {{ profile.name }}, {{ profile.info }}
-            </span>
+            </p>
           {% endif %}
         {% endfor %}
-      </ul>
+      </div>
     {% endif %}
   </article>
 
