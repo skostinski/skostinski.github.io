@@ -59,16 +59,16 @@ profiles:
     # image: einstein_pic.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: right
-    name: J S
-    info: "former student"
-    image: einstein_pic.jpg
-    alumni: true
-    content: about_einstein.md
-  - align: right
-    name: S M
-    info: "former student"
-    image: einstein_pic.jpg
-    alumni: true
-    content: about_einstein.md
+#  - align: right
+#    name: J S
+#    info: "former student"
+#    image: einstein_pic.jpg
+#    alumni: true
+#    content: about_einstein.md
+#  - align: right
+#    name: S M
+#    info: "former student"
+#    image: einstein_pic.jpg
+#    alumni: true
+#    content: about_einstein.md
 ---
