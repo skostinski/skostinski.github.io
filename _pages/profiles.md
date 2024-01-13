@@ -65,4 +65,10 @@ profiles:
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
+  - align: left
+    name: S M
+    info: "<p>former student</p>"
+    image: einstein_pic.jpg
+    alumni: true
+    content: about_einstein.md
 ---
