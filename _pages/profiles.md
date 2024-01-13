@@ -41,4 +41,8 @@ profiles:
     alumni: false
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    image: einstein_pic.jpg
+    alumni: true
+    content: about_einstein.md
 ---
