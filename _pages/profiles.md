@@ -51,7 +51,7 @@ profiles:
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     name: Alfred Drew
-    position: Research intern
+    position: BioBus research intern; Hunter College biophysics BSc student
     content: about_alfreddrew.md
     <!-- image: einstein_pic.jpg -->
     alumni: false
