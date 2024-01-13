@@ -19,7 +19,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 <p> We are part of the Center for Soft Matter Research at NYU Physics and are broadly interested in theoretical aspects of biological, statistical, and soft condensed matter physics. </p>
 
