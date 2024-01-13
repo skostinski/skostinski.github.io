@@ -17,7 +17,7 @@ profiles:
     content: about_sarahkostinski.md
     alumni: false
     image_circular: false # crops the image to make it circular
-    info: Assistant Professor of Physics
+    info: <p> Assistant Professor of Physics <\p>
  <--   more_info: > -->
  <--     <p>image description -->
   - align: left
