@@ -32,14 +32,14 @@ layout: page
           </div>
 
           <div class="clearfix">
-            <h3>{{ profile.name }}</h3>
+            <h4>{{ profile.name }}</h4>
             <span>
-              <h5>
+              <h6>
                 {{ profile.position }}
                 {% if profile.email %}
                   <a href="mailto:{{ profile.email }}"><i class="fas fa-envelope" style='padding-left: 10px;'></i></a>
                 {% endif %}
-              </h5>
+              </h6>
               <div>
                 {{ profile.info | markdownify }}
               </div>
@@ -47,6 +47,7 @@ layout: page
           </div>
         {% endunless %}
       {% endfor %}
+      <hr>
       <hr>
       <h2>Alumni</h2>
       <ul>
