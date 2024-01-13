@@ -10,6 +10,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    name: Sarah Kostinski
+    position: Principal Investigator
     image: prof_pic.jpg
     content: about_sarahkostinski.md
     alumni: false
@@ -17,31 +19,42 @@ profiles:
     more_info: >
       <p>Sarah Kostinski</p>
   - align: left
-    <!-- image: einstein_pic.jpg -->
+    name: Debendro Mookerjee
+    position: NYU physics PhD student
     content: about_debendromookerjee.md
+    <!-- image: einstein_pic.jpg -->
     alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
-    <!-- image: einstein_pic.jpg -->
+    name: Adam Guerin
+    position: NYU physics PhD student
     content: about_adamguerin.md
+    <!-- image: einstein_pic.jpg -->
     alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     <!-- image: einstein_pic.jpg -->
+    name: Nancy Shi
+    position: NYU physics BSc student
     content: about_nancyshi.md
     alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
-    <!-- image: einstein_pic.jpg -->
-    alumni: false
+    name: Dylan Lane
+    position: NYU physics BSc student
     content: about_dylanlane.md
-    <!-- image_circular: false # crops the image to make it circular -->
-  - align: left
     <!-- image: einstein_pic.jpg -->
     alumni: false
-    content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
+    name: Alfred Drew
+    position: Research intern
+    content: about_alfreddrew.md
+    <!-- image: einstein_pic.jpg -->
+    alumni: false
+    <!-- image_circular: false # crops the image to make it circular -->
+  - align: left
+    name: Albert E
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
