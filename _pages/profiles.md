@@ -17,8 +17,9 @@ profiles:
     content: about_sarahkostinski.md
     alumni: false
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Assistant Professor of Physics</p>
+    info: Assistant Professor of Physics
+ <--   more_info: > -->
+ <--     <p>image description -->
   - align: left
     name: Debendro Mookerjee
     position: NYU physics PhD student
