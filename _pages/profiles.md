@@ -12,27 +12,33 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: about_sarahkostinski.md
+    alumni: false
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sarah Kostinski</p>
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_debendromookerjee.md
+    alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_adamguerin.md
+    alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     <!-- image: einstein_pic.jpg -->
     content: about_nancyshi.md
+    alumni: false
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     <!-- image: einstein_pic.jpg -->
+    alumni: false
     content: about_dylanlane.md
     <!-- image_circular: false # crops the image to make it circular -->
   - align: left
     <!-- image: einstein_pic.jpg -->
+    alumni: false
     content: about_alfreddrew.md
     <!-- image_circular: false # crops the image to make it circular -->
 ---
