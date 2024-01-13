@@ -12,6 +12,7 @@ profiles:
   - align: right
     name: Sarah Kostinski
     position: Principal Investigator
+    email: sk10775@nyu.edu
     image: prof_pic.jpg
     content: about_sarahkostinski.md
     alumni: false
@@ -21,6 +22,7 @@ profiles:
   - align: left
     name: Debendro Mookerjee
     position: NYU physics PhD student
+    email: dm5790@nyu.edu
     content: about_debendromookerjee.md
     <!-- image: einstein_pic.jpg -->
     alumni: false
@@ -28,6 +30,7 @@ profiles:
   - align: left
     name: Adam Guerin
     position: NYU physics PhD student
+    email: ag6884@nyu.edu
     content: about_adamguerin.md
     <!-- image: einstein_pic.jpg -->
     alumni: false
