@@ -61,13 +61,13 @@ profiles:
     # image_circular: false # crops the image to make it circular
   - align: left
     name: J S
-    info: "<p>former student</p>"
+    info: "former student"
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
   - align: left
     name: S M
-    info: "<p>former student</p>"
+    info: "former student"
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
