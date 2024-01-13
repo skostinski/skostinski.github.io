@@ -19,7 +19,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     info: "<p>Assistant Professor of Physics</p>"
     # more_info: "<p>Image description</p>"
-  - align: left
+  - align: right
     name: Debendro Mookerjee
     position: NYU physics PhD student
     email: dm5790@nyu.edu
@@ -27,7 +27,7 @@ profiles:
     # image: einstein_pic.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     name: Adam Guerin
     position: NYU physics PhD student
     email: ag6884@nyu.edu
@@ -35,7 +35,7 @@ profiles:
     # image: einstein_pic.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     # image: einstein_pic.jpg
     name: Nancy Shi
     email: ys4690@nyu.edu
@@ -43,7 +43,7 @@ profiles:
     content: about_nancyshi.md
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     name: Dylan Lane
     email: dl4729@nyu.edu
     position: NYU physics BSc student
@@ -51,7 +51,7 @@ profiles:
     # image: einstein_pic.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     name: Alfred Drew
     email: alfred.drew@biobus.org
     position: BioBus research intern; Hunter College biophysics BSc student
@@ -59,13 +59,13 @@ profiles:
     # image: einstein_pic.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     name: J S
     info: "former student"
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
-  - align: left
+  - align: right
     name: S M
     info: "former student"
     image: einstein_pic.jpg
