@@ -61,7 +61,7 @@ profiles:
     # image_circular: false # crops the image to make it circular
   - align: left
     name: Albert Einstein
-    position: inspiration
+    info: "<p>inspiration</p>"
     image: einstein_pic.jpg
     alumni: true
     content: about_einstein.md
