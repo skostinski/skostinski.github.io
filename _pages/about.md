@@ -21,7 +21,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p class="spaced-paragraph"> We are part of the <a href="https://as.nyu.edu/research-centers/csmr/people.html"> Center for Soft Matter Research </a> at NYU Physics and are broadly interested in theoretical aspects of biological, statistical, and soft condensed matter physics. </p>
+<p class="spaced-paragraph"> We are part of the <a href="https://as.nyu.edu/research-centers/csmr.html"> Center for Soft Matter Research </a> at NYU Physics and are broadly interested in theoretical aspects of biological, statistical, and soft condensed matter physics. </p>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
