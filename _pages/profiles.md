@@ -54,6 +54,7 @@ profiles:
   - align: right
     name: Alfred Drew
     email: alfred.drew@biobus.org
+    image: alfreddrew.jpg
     position: BioBus research student; Hunter College biophysics BSc student
     content: about_alfreddrew.md
     # image: einstein_pic.jpg
