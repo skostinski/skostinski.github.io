@@ -36,7 +36,7 @@ profiles:
     alumni: false
     # image_circular: false # crops the image to make it circular
   - align: right
-    image: nancyshi.jpg
+    image: nancyshi.JPG
     name: Nancy Shi
     email: ys4690@nyu.edu
     position: NYU physics BSc student
@@ -48,7 +48,7 @@ profiles:
     email: dl4729@nyu.edu
     position: NYU physics BSc student
     content: about_dylanlane.md
-    image: dylanlane.jpg
+    image: dylanlane.JPG
     alumni: false
     # image_circular: false # crops the image to make it circular
   - align: right
