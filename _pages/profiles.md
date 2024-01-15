@@ -24,7 +24,7 @@ profiles:
     position: NYU physics PhD student
     email: dm5790@nyu.edu
     content: about_debendromookerjee.md
-    # image: einstein_pic.jpg
+    image: debendromookerjee.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
   - align: right
