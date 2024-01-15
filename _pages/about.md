@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to the research group of Sarah Kostinski at <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>
+subtitle: Welcome to the research group of Sarah Kostinski at <a href='https://as.nyu.edu/faculty/sarah-kostinski.html'>New York University</a>.
 
 profile:
   align: right
