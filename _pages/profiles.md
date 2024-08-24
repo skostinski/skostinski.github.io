@@ -28,14 +28,6 @@ profiles:
     alumni: false
     # image_circular: false # crops the image to make it circular
   - align: right
-    name: Adam Guerin
-    position: NYU physics PhD student
-    email: ag6884@nyu.edu
-    content: about_adamguerin.md
-    # image: einstein_pic.jpg
-    alumni: false
-    # image_circular: false # crops the image to make it circular
-  - align: right
     image: nancyshi.JPG
     name: Nancy Shi
     email: ys4690@nyu.edu
