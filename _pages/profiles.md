@@ -51,6 +51,13 @@ profiles:
     alumni: true
     # image_circular: false # crops the image to make it circular
   - align: right
+    name: Youxuan Wei
+    email: yw6056@nyu.edu
+    position: NYU math BSc student
+    content: about_youxuanwei.md
+    alumni: false
+    # image_circular: false # crops the image to make it circular
+  - align: right
     name: Alfred Drew
     email: alfred.drew@biobus.org
     image: alfreddrew.jpg
