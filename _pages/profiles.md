@@ -27,22 +27,22 @@ profiles:
     image: debendromookerjee.jpg
     alumni: false
     # image_circular: false # crops the image to make it circular
-  - align: right
-    image: nancyshi.JPG
-    name: Nancy Shi
-    email: ys4690@nyu.edu
-    position: NYU physics BSc student
-    content: about_nancyshi.md
-    alumni: false
-    # image_circular: false # crops the image to make it circular
-  - align: right
-    name: Dylan Lane
-    email: dl4729@nyu.edu
-    position: NYU physics BSc student
-    content: about_dylanlane.md
-    image: dylanlane.JPG
-    alumni: false
-    # image_circular: false # crops the image to make it circular
+# - align: right
+#   image: nancyshi.JPG
+#   name: Nancy Shi
+#   email: ys4690@nyu.edu
+#  position: NYU physics BSc student
+#   content: about_nancyshi.md
+#  alumni: true
+#   # image_circular: false # crops the image to make it circular
+# - align: right
+#   name: Dylan Lane
+#   email: dl4729@nyu.edu
+#   position: NYU physics BSc student
+#   content: about_dylanlane.md
+#   image: dylanlane.JPG
+#   alumni: true
+#   # image_circular: false # crops the image to make it circular
   - align: right
     name: Alfred Drew
     email: alfred.drew@biobus.org
