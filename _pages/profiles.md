@@ -20,6 +20,13 @@ profiles:
     info: "<p>Assistant Professor of Physics</p>"
     # more_info: "<p>Image description</p>"
   - align: right
+    name: Amara McCune
+    position: Postdoc
+    email: am15537@nyu.edu
+    content: about_amaramccune.md
+    image: amaramccune.jpeg
+    alumni: false
+  - align: right
     name: Debendro Mookerjee
     position: NYU physics PhD student
     email: dm5790@nyu.edu
