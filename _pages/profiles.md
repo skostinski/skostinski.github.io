@@ -21,7 +21,7 @@ profiles:
     # more_info: "<p>Image description</p>"
   - align: right
     name: Amara McCune
-    position: Postdoc
+    position: Postdoc (PhD, UCSB Physics)
     email: am15537@nyu.edu
     content: about_amaramccune.md
     image: amaramccune.jpeg
