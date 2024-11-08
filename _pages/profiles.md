@@ -62,7 +62,7 @@ profiles:
     email: yw6056@nyu.edu
     position: NYU math BSc student
     content: about_youxuanwei.md
-    alumni: false
+    alumni: true
     # image_circular: false # crops the image to make it circular
   - align: right
     name: Xianchen Fang
