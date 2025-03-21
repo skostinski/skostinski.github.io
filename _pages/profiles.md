@@ -69,7 +69,7 @@ profiles:
     email: xf732@nyu.edu
     position: NYU math BSc student
     content: about_xianchenfang.md
-    alumni: false
+    alumni: true
     # image_circular: false # crops the image to make it circular
   - align: right
     name: Alfred Drew
