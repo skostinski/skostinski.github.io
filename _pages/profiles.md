@@ -72,6 +72,13 @@ profiles:
     alumni: true
     # image_circular: false # crops the image to make it circular
   - align: right
+    name: Ana Pekec
+    email: ap4306@barnard.edu
+    position: Math/physics undergraduate at Barnard College of Columbia University
+    content: about_anapekec.md
+    alumni: false
+    # image_circular: false # crops the image to make it circular
+  - align: right
     name: Alfred Drew
     email: alfred.drew@biobus.org
     image: alfreddrew.jpg
