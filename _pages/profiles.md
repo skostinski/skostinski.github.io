@@ -27,6 +27,13 @@ profiles:
     image: amaramccune.jpeg
     alumni: false
   - align: right
+    name: Rayan Succar
+    position: Postdoc (PhD, NYU Tandon)
+    email: rayan.succar@nyu.edu
+    content: about_rayansuccar.md
+    image: 
+    alumni: false
+  - align: right
     name: Debendro Mookerjee
     position: NYU physics PhD student
     email: dm5790@nyu.edu
@@ -76,7 +83,7 @@ profiles:
     email: ap4306@barnard.edu
     position: Math/physics undergraduate at Barnard College of Columbia University
     content: about_anapekec.md
-    alumni: false
+    alumni: true
     # image_circular: false # crops the image to make it circular
   - align: right
     name: Alfred Drew
@@ -85,7 +92,7 @@ profiles:
     position: BioBus research student; Hunter College biophysics BSc student
     content: about_alfreddrew.md
     # image: einstein_pic.jpg
-    alumni: false
+    alumni: true
     # image_circular: false # crops the image to make it circular
 #  - align: right
 #    name: J S
