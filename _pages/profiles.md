@@ -25,14 +25,14 @@ profiles:
     email: am15537@nyu.edu
     content: about_amaramccune.md
     image: amaramccune.jpeg
-    alumni: false
+    alumni: true
   - align: right
     name: Rayan Succar
     position: Postdoc (PhD, NYU Tandon)
     email: rayan.succar@nyu.edu
     content: about_rayansuccar.md
     image: 
-    alumni: false
+    alumni: true
   - align: right
     name: Debendro Mookerjee
     position: NYU physics PhD student
